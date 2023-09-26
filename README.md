@@ -33,12 +33,12 @@ Se o Node.js não estiver instalado, você pode baixá-lo em [nodejs.org](https:
 Para configurar este projeto em sua máquina local, siga estas etapas:  
 1. Clone este repositório:
 ```
-git clone https://github.com/seu-usuario/Auth.git
+git clone https://github.com/LFeli/Auth..git
 ```
 
 2. Navegue até o diretório do projeto:
 ```
-cd Auth
+cd Auth.
 ```
 
 3. Navegue até o diretório do projeto:
