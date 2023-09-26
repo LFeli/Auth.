@@ -63,7 +63,7 @@ Em construção 🏗️
 
 ## 🤝 Feedback
 
-Se você tiver sugestões, encontrou algum problema ou simplesmente deseja compartilhar sua experiência com este projeto, ficarei felizes em ouvir.
+Se você tiver sugestões, encontrou algum problema ou simplesmente deseja compartilhar sua experiência com este projeto, ficarei feliz em ouvir.
 
 Sinta-se à vontade para criar uma issue neste repositório.
 
